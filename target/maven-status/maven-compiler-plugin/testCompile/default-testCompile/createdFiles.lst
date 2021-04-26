@@ -1,0 +1,9 @@
+ProfileControllerTest.class
+LoginControllerTest.class
+ValidationControllerTest.class
+SuccessfulPageTest.class
+DisplayJsonTest.class
+RegistrationControllerTest.class
+RegistrationDetailsTest.class
+RegistrationViewControllerTest.class
+LogoutControllerTest.class

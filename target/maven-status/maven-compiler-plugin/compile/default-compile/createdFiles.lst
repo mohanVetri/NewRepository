@@ -1,0 +1,11 @@
+com\login\DispatcherServletConfig.class
+com\login\DispatcherServletInitialiser.class
+com\login\DisplayJson.class
+com\login\LogoutController.class
+com\login\RegistrationViewController.class
+com\login\ProfileController.class
+com\login\ValidationController.class
+com\login\RegistrationController.class
+com\login\LoginController.class
+com\login\SuccessfulPage.class
+com\login\RegistrationDetails.class
