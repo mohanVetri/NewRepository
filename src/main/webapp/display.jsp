@@ -15,11 +15,6 @@
                     method: "GET",
                 success:function(data,status,xhr){
                     $("#output").html(data.message);
-                    if(data.hasOwnProperty("hello")){
-                    }
-                    else{
-                        alert("error");
-                    }
                 },
                 error: function(jqXhr, textStatus, errorMessage){
                     alert(textStatus);
